@@ -2,7 +2,7 @@
 <h1 align="center">
   <a><img src="https://github.com/nivlevyy/http_tcp_server/blob/main/image/server_logo.png" width="300"></a>
 <br>
-# Custom HTTP 1.1 Web Server
+## Custom HTTP 1.1 Web Server
 <br>
 </h1>
 
